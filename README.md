@@ -51,20 +51,8 @@
 <div style="display: inline_block">
  <h2> Certificações 🏆 </h2>
  <div style="display: flex; justify-content: space-around;">
-  <a href="https://www.credly.com/badges/5aa4934a-114c-4664-ab37-d3038eee275c/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/0bb69633-9161-4384-a712-3a8f1f72eb85/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/7042c2fd-755d-406a-b001-f1057f4bc2f8/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/8c108787-7db9-4787-ae28-ca4842df5867/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/281abd0f-985a-48b2-8992-e37910eed1be/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png"/>
+[  <a href="https://www.credly.com/badges/2db6ea12-b745-4493-8b40-bd6ba0eaec7c">
+    <img width="10%" height="10%"  src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
   </a>
  </div>
 </div>
