@@ -53,6 +53,11 @@
  <div style="display: flex; justify-content: space-around;">
   <a href="https://www.credly.com/badges/2db6ea12-b745-4493-8b40-bd6ba0eaec7c">
     <img width="10%" height="10%"  src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
+
+
+ <a href=" https://www.cloudskillsboost.google/public_profiles/cd6e4dc4-6245-4167-afe1-e898510b9b72/badges/10550137?qlcampaign=4p-EDUCR-GCCFSENAISP_AUG24-19">
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/KbqzjKcHkLlPN6MjA3QKHmK%2B7Hz3YwOekanSDJZiSWY%3D"/>
+   
   </a>
  </div>
 </div>
