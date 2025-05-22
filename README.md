@@ -57,6 +57,18 @@
 
  <a href=" https://www.cloudskillsboost.google/public_profiles/cd6e4dc4-6245-4167-afe1-e898510b9b72/badges/10550137?qlcampaign=4p-EDUCR-GCCFSENAISP_AUG24-19">
   <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/KbqzjKcHkLlPN6MjA3QKHmK%2B7Hz3YwOekanSDJZiSWY%3D"/>
+
+
+<a href="https://www.cloudskillsboost.google/public_profiles/cd6e4dc4-6245-4167-afe1-e898510b9b72/badges/10547830?qlcampaign=4p-EDUCR-GCCFSENAISP_AUG24-19">
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/%2Fb6vXtWRtaGoDla7LMwPf7bX6UgDdY81abF2IU9Ouyc%3D"/>
+
+
+<a href="https://www.cloudskillsboost.google/public_profiles/cd6e4dc4-6245-4167-afe1-e898510b9b72/badges/10464551?qlcampaign=4p-EDUCR-GCCFSENAISP_AUG24-19">
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/t0b88bg6YHVVcyfjgBBGP%2BmVfr2k8zm1qrR9os9JBLc%3D"/>
+  
+  <a href="https://www.cloudskillsboost.google/public_profiles/cd6e4dc4-6245-4167-afe1-e898510b9b72/badges/10462880?qlcampaign=4p-EDUCR-GCCFSENAISP_AUG24-19">
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/gwaziiY9l16dYBocReK5WM6Xe%2Ft3NoOo4026BzAdP%2FY%3D"/>
+
    
   </a>
  </div>
