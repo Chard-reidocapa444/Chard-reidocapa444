@@ -25,7 +25,7 @@
 <!-- Redes sociais -->
 <div align="center"> 
   <a href="https://www.instagram.com/just_a_beingk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:renan.gab153@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:richardepflores@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/renan-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </div>
 
@@ -51,7 +51,7 @@
 <div style="display: inline_block">
  <h2> Certificações 🏆 </h2>
  <div style="display: flex; justify-content: space-around;">
-[  <a href="https://www.credly.com/badges/2db6ea12-b745-4493-8b40-bd6ba0eaec7c">
+  <a href="https://www.credly.com/badges/2db6ea12-b745-4493-8b40-bd6ba0eaec7c">
     <img width="10%" height="10%"  src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
   </a>
  </div>
